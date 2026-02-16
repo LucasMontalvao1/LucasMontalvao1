@@ -40,7 +40,7 @@ C# • .NET 8 • SQL Server • PostgreSQL • MySQL • RabbitMQ • Hangfire
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
 </p>
 
 Angular • TypeScript • RxJS • TailwindCSS
@@ -98,18 +98,13 @@ Atuar como desenvolvedor backend especializado em arquitetura escalável, sistem
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"
-    height="180em"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight"
-    height="180em"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
