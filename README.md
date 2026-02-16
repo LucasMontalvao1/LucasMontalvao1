@@ -19,14 +19,28 @@
 
 ## 🛠 Stack Principal
 
-### Backend
-C# | .NET 8 | EF Core | Dapper | SQL Server | PostgreSQL | RabbitMQ | Hangfire  
+### 🚀 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
 
-### Frontend
-Angular | TypeScript | RxJS | TailwindCSS  
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+</p>
 
-### Infra & DevOps
-Docker | Azure | Git  
+### ⚙ Infra & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
 
 ---
 
@@ -68,16 +82,23 @@ Atuar como desenvolvedor backend especializado em arquitetura escalável, sistem
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight"/>
+</p>
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-montalv%C3%A3o-8677a151/
-- 📧 Email: lucasdesouza015@gmail.com
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-montalv%C3%A3o-8677a151/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lucasdesouza015@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
