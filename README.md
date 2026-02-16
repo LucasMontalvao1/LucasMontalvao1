@@ -98,13 +98,12 @@ Atuar como desenvolvedor backend especializado em arquitetura escalável, sistem
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMontalvao1&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://ghchart.rshah.org/409eff/LucasMontalvao1" />
 </p>
-
 
 ---
 
