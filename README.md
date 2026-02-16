@@ -20,27 +20,42 @@
 ## 🛠 Stack Principal
 
 ### 🚀 Backend
-<p>
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40"/>
 </p>
 
+C# • .NET 8 • SQL Server • PostgreSQL • MySQL • RabbitMQ • Hangfire
+
+---
+
 ### 🎨 Frontend
-<p>
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
 </p>
 
+Angular • TypeScript • RxJS • TailwindCSS
+
+---
+
 ### ⚙ Infra & DevOps
-<p>
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
+
+Docker • Azure • Git
 
 ---
 
@@ -83,9 +98,19 @@ Atuar como desenvolvedor backend especializado em arquitetura escalável, sistem
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LucasMontalvao1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"
+    height="180em"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMontalvao1&layout=compact&theme=tokyonight"
+    height="180em"
+  />
+</p>
+
 ---
 
 ## 📫 Contato
